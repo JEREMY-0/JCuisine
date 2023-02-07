@@ -1,17 +1,15 @@
 ---
-layout: recipe
-title: Any Recipe
+title: Atomic Wings
 date: 2019-10-19
-published: true
 order: 1
+layout: recipe
+published: true
 ---
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This introduces the recipe and is a pargaraph of text. This recipe for wings is sure to be a hit at any gathering. The wings are marinated in a mixture of garlic, cumin, paprika, parsley, and other spices, then cooked in the oven until they’re tender and succulent. The wings are then finished off with a light coating of a sweet and smoky barbecue sauce. These wings have just the right amount of kick and are sure to be a crowd pleaser. Serve them up with your favourite dipping sauces, or as an appetizer at your next party. Enjoy!Ingredients
 
-## Ingredients
-
-- prehenderit deserunt veniam sunt et. 
-- Nulla ea est commodo minim quis. 
-- Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+* prehenderit deserunt veniam sunt et. 
+* Nulla ea est commodo minim quis. 
+* Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
 
 ## Method
 
@@ -27,6 +25,5 @@ Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation ad
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-- Serves 10
-- Cooking time 3 hours 
+* Serves 10
+* Cooking time 3 hours
