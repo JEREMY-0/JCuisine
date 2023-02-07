@@ -1,5 +1,5 @@
 ---
-title: Here is the name of your recipe site
+title: Christopher Cuisine
 coverimage: ../uploads/black-white-simple-minimalist-cook-recipe-book-cover.jpg
 permalink: /
 layout: recipeshome
