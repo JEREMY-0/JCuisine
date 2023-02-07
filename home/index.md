@@ -1,15 +1,14 @@
 ---
-layout: recipeshome
 title: Here is the name of your recipe site
-permalink: "/"
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/black-white-simple-minimalist-cook-recipe-book-cover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-02-07T13:07:41.194Z
 ---
-
 Here is an introduction to my recipe site
 
 You should use **markdown** to write this text and this will automatically be converted to `HTML`.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\
+Welcome to my cookbook! Here, you will find a variety of delicious recipes that are sure to please the whole family. From classic comfort food to exciting new flavors, there's something for everyone to enjoy. All of the recipes are simple and easy to make so you can whip up something tasty in no time. So, get your apron on and let’s get cooking!
