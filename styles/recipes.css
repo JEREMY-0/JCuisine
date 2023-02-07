@@ -14,4 +14,57 @@
 
 /* the rest is up to you */
 
+body {
+background-color: rgb(92, 45, 169);
 
+}
+
+h1 {color: rgb(92, 19, 194);
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+h2{color: green;
+margin: 1ch;
+}
+
+h1,h2 {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+p{
+  color: rgb(179, 18, 18);
+  margin-bottom: 0px;
+}
+
+main {
+width:60%;
+max-width:850px;
+/* border: 1px solid purple; */
+padding:0 12px 0 12px;
+margin:0 auto;
+background-color: blanchedalmond;
+}
+
+img{
+width: 60%;
+float: right;
+}
+
+ul {
+  margin-left:40px;
+  /* columns: 2; */
+  /* column-rule: 1px solid blue; */
+}
+
+li {
+font-size: .8em;
+margin-bottom: 12px;
+list-style: inside;
+}
+
+.caption {
+  float:right;
+  width: 60%;
+}
