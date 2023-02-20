@@ -9,7 +9,7 @@ published: true
 
 Here is a recipe for chicken and chorizo jambalaya:
 
-## Ingredients:
+# Ingredients:
 
 * 1 pound boneless, skinless chicken breasts, cut into bite-sized pieces
 * 1/2 pound chorizo sausage, sliced
@@ -26,7 +26,7 @@ Here is a recipe for chicken and chorizo jambalaya:
 * 2 green onions, thinly sliced
 * Optional garnish: chopped fresh parsley
 
-**Directions:**
+# **Directions:**
 
 1. In a large, heavy-bottomed pot or Dutch oven, brown the chicken and chorizo over medium-high heat until the chicken is cooked through and the chorizo is browned. Remove the chicken and chorizo from the pot and set aside.
 2. In the same pot, sauté the onion and bell pepper until the onion is translucent, about 5 minutes. Add the garlic and sauté for another 30 seconds.
