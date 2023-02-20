@@ -17,7 +17,7 @@ layout: recipe
 * 2 large eggs, beaten
 * Vegetable oil for frying
 
-## Instructions:
+# Instructions:
 
 1. Cook the elbow macaroni according to package directions, then drain and rinse with cold water. Set aside.
 2. In a large saucepan, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes.
