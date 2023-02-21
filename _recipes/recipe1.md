@@ -5,7 +5,7 @@ order: 2
 layout: recipe
 published: true
 ---
-![Fabulous Chicken and Chorizo Jambalaya](../uploads/pexels-murtada-mustafa-7426867.jpg "Photo by Jeremy Christopher")
+![Fabulous Chicken and Chorizo Jambalaya]( "Photo by Jeremy Christopher")
 
 Here is a recipe for chicken and chorizo jambalaya:
 
