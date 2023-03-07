@@ -1,6 +1,6 @@
 ---
 title: Christopher Cuisine
-coverimage: ""
+coverimage: ../uploads/black-white-simple-minimalist-cook-recipe-book-cover.jpg
 permalink: /
 layout: recipeshome
 published: true
