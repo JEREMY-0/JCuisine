@@ -5,8 +5,6 @@ order: 2
 layout: recipe
 published: true
 ---
-![Fabulous Chicken and Chorizo Jambalaya]( "Photo by Jeremy Christopher")
-
 Here is a recipe for chicken and chorizo jambalaya:
 
 # Ingredients:
