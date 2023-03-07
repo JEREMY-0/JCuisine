@@ -193,9 +193,6 @@ list-style-position: inside;
 }
 
 
-
-
-
 .title
 {
   padding-top: 15px;
@@ -206,7 +203,7 @@ list-style-position: inside;
   color:#084679
 }
 
-.cover {
+.home {
 width:60%;
 float:right;
 }
