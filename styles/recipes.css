@@ -1,10 +1,128 @@
 /*! CSS bare bones for recipes site */
 
+
+
  html {
-  font-family: sans-serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
+*  {
+  margin: 0;
+  padding: 10;
+  box-sizing: border-box;
+}
+
+/* the rest is up to you */
+
+header {
+  background-color: #2448bc; /* dark blue */
+  color: #9b8be2; /* white */
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  
+  font-family: "Helvetica Neue", cursive, sans-serif; 
+  padding: 20px;
+}
+
+body {
+
+  background-color: rgb(60, 90, 160);
+}
+
+h1 {
+  color: rgb(7, 19, 70);
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+h2 {
+  color:rgb(13, 0, 128);
+  margin: 0 0 12px 0;
+}
+
+h1,h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+color:rgb(94, 21, 97);
+margin-bottom:4em;
+text-align: center;
+}
+
+main {
+width: 60%;
+max-width:850px;
+/* border:1px solid purple; */
+padding:0 12px;
+margin:0 auto;
+
+}
+
+img {
+width:60%;
+float:right;
+position: relative;
+
+}
+
+
+
+ul {
+  margin-left: 12px;
+  text-align: center;
+  /* columns: 2;
+  column-rule: 1px solid blue; */
+}
+
+li {
+font-size: .4em;
+margin-bottom: 12px;
+list-style-position: inside;
+display: flex;
+flex-wrap: wrap;
+flex-basis: 200px;
+}
+
+.caption {
+  font-size: .8em;
+  float:right;
+  width:60%;
+}
+
+div {
+  border: 1px solid black;
+  background-color: rgb(123, 114, 206);
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+
+.post-content
+
+{
+
+
+  border: 5px solid #fff;
+}
+
+footer {
+  background-color: #088870; /* dark blue */
+  padding: 5px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 15px;
+}
+
 
 *  {
   margin: 0;
@@ -15,56 +133,78 @@
 /* the rest is up to you */
 
 body {
-background-color: rgb(92, 45, 169);
 
+  background-color: rgb(62, 21, 96);
 }
 
-h1 {color: rgb(92, 19, 194);
+h1 {
+  color: rgb(69, 200, 187);
   margin-bottom: 12px;
   text-align: center;
 }
 
-h2{color: green;
-margin: 1ch;
+h2 {
+  color:rgb(0, 43, 128);
+  margin: 0 0 12px 0;
 }
 
 h1,h2 {
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-p{
-  color: rgb(179, 18, 18);
-  margin-bottom: 0px;
+p {
+color:rgb(59, 57, 57);
+margin-bottom:1em;
 }
 
 main {
-width:60%;
+width: 60%;
 max-width:850px;
-/* border: 1px solid purple; */
-padding:0 12px 0 12px;
+/* border:1px solid purple; */
+padding: 0 12px;
 margin:0 auto;
-background-color: blanchedalmond;
+background-color: rgb(30, 164, 159);
 }
 
-img{
-width: 60%;
-float: right;
+img {
+width:60%;
+float:right;
 }
+
+
 
 ul {
-  margin-left:40px;
-  /* columns: 2; */
-  /* column-rule: 1px solid blue; */
+  margin-left: 12px;
+  /* columns: 2;
+  column-rule: 1px solid blue; */
 }
 
 li {
 font-size: .8em;
 margin-bottom: 12px;
-list-style: inside;
+list-style-position: inside;
 }
 
 .caption {
+  font-size: .8em;
   float:right;
-  width: 60%;
+  width:60%;
+  
 }
+
+
+
+
+
+.title
+{
+  padding-top: 15px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: 'Intro Rust Base', sans-serif;
+  font-size: 3em;
+  color:#084679
+}
+
+
+ 
