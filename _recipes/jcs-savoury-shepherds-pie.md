@@ -4,8 +4,6 @@ date: 2023-02-14T09:22:07.311Z
 order: 3
 layout: recipe
 ---
-### Here is a recipe for a savoury shepherd's pie:
-
 ## Ingredients:
 
 **For the meat filling:**
