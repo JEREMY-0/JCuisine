@@ -7,7 +7,7 @@ published: true
 ---
 W﻿elcome to the amazing wings at your disposal
 
-# Ingredients
+# Ingredients 
 
 recipe for atomic wings Ingredients
 
