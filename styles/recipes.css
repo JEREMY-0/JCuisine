@@ -95,14 +95,7 @@ flex-basis: 200px;
   width:60%;
 }
 
-div {
-  border: 1px solid black;
-  background-color: rgb(123, 114, 206);
-  padding-top: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-  padding-left: 30px;
-}
+
 
 .post-content
 
