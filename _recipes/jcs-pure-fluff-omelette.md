@@ -4,7 +4,7 @@ date: 2023-02-14T09:24:02.325Z
 order: 4
 layout: recipe
 ---
-**Here is a recipe for a fluffy omelette:**
+Here is a recipe for a fluffy omelette:
 
 # Ingredients:
 
