@@ -5,6 +5,8 @@ order: 1
 layout: recipe
 published: true
 ---
+W﻿elcome to the amazing wings at your disposal
+
 # Ingredients
 
 recipe for atomic wings Ingredients
