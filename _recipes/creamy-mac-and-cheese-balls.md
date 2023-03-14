@@ -6,6 +6,12 @@ layout: recipe
 ---
 W﻿elcome to my recipe
 
+
+
+![](../uploads/dall·e-2023-03-14-14.11.36-mac-and-cheese-balls.png)
+
+
+
 # Ingredients:
 
 * 1 pound elbow macaroni
