@@ -7,7 +7,13 @@ published: true
 ---
 W﻿elcome to the amazing wings at your disposal
 
-# Ingredients 
+
+
+![](../uploads/pexels-teguh-sugi-6368747.jpg)
+
+
+
+# Ingredients
 
 recipe for atomic wings Ingredients
 
