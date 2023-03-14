@@ -24,6 +24,10 @@ Here is a recipe for chicken and chorizo jambalaya:
 * 2 green onions, thinly sliced
 * Optional garnish: chopped fresh parsley
 
+
+
+![](../uploads/pexels-murtada-mustafa-7426867.jpg)
+
 # **Directions:**
 
 1. In a large, heavy-bottomed pot or Dutch oven, brown the chicken and chorizo over medium-high heat until the chicken is cooked through and the chorizo is browned. Remove the chicken and chorizo from the pot and set aside.
